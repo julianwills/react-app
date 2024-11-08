@@ -1,5 +1,5 @@
 function ListGroup() {
-  const items = ["New York", "London", "Paris"];
+  const items = ["New York", "London", "Paris","Hull", "hello"];
 
   return (
     <>
